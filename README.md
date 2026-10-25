@@ -2,7 +2,7 @@
 
 A level-based learning game for children aged 4 to 7. Kids practise **phonics, spelling, phrases and sentences** in the Words track, and **counting, adding and taking away** in the Numbers track. Every level ends with 1 to 3 stars and a sticker. A friendly baby elephant called Gajju talks them through it.
 
-The whole game is a single `index.html` file: no install, no account, no ads, nothing sent to a server.
+The whole game is a single `index.html` file: no install, no account, no ads. Your child's progress and answers never leave the device.
 
 ![Home screen, a spelling level and an adding level](docs/screens.png)
 
@@ -33,6 +33,11 @@ There are 45 levels. Each world ends with a boss level that mixes everything in 
 - **No timers, lives or red crosses.** After two misses the right answer gently pulses, and missed questions come back at the end.
 - **Every prompt is spoken,** with a speech bubble showing the words. Letter sounds are spoken as sounds ("sss, as in sun"), not letter names.
 - **Rewards:** stickers, confetti, streak cheers, and Gajju earns a flower, cap, scarf and crown as stars add up.
+
+## Privacy
+
+- Progress, stars, the child's name and the PIN are stored only in the browser on the device. Nothing about the child is sent anywhere.
+- The GitHub Pages site counts visits with [GoatCounter](https://www.goatcounter.com), which uses no cookies and collects no personal data. It records only that the page was opened, with browser type, screen size and country. The downloaded `index.html` counts nothing.
 
 ## For grown-ups
 
